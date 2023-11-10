@@ -1,0 +1,4 @@
+name: apple, beans, pancakes, cottage cheese, salmon, protein powder
+calories:1028.4
+protein_g:120.9
+carbohydrates_total_g:72.2

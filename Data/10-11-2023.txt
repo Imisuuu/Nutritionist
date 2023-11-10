@@ -1,0 +1,9 @@
+chicken,222.6,23.7,0.0
+salmon,208.7,22.0,0.0
+corn,93.9,3.4,21.0
+pancakes,230.7,6.4,28.8
+chips,540.8,6.4,54.3
+protein shake,58.2,6.6,0.8
+ramen,87.9,6.5,9.9
+peanut butter,579.7,22.1,24.0
+protein powder,348.4,77.9,6.2
